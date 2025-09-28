@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devon</h1>
+ume<h1 align="center">Hi 👋, I'm Devon</h1>
 <h3 align="center">CompE + Math @ GA Tech</h3>
 
 - 🔭 I’m currently working at [Shape Machine](https://shapemachine.design.gatech.edu/)
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **doquinn3@gatech.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uiaHaoYSz9wuAdMRmNj8r9EpHomu_GE_5QopxRk_8TU/edit?usp=sharing](https://docs.google.com/document/d/1uiaHaoYSz9wuAdMRmNj8r9EpHomu_GE_5QopxRk_8TU/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1uiaHaoYSz9wuAdMRmNj8r9EpHomu_GE_5QopxRk_8TU/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
