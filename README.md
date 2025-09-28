@@ -81,7 +81,7 @@
 
 <div align="center">
   
-### ⚡ "You become what you give your attention to" - Epictetus
+### ⚡ _You become what you give your attention to - Epictetus_
 
 *Let's build something amazing together!* 🚀
 
