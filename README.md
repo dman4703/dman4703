@@ -1,4 +1,4 @@
-ume<h1 align="center">Hi 👋, I'm Devon</h1>
+<h1 align="center">Hi 👋, I'm Devon</h1>
 <h3 align="center">CompE + Math @ GA Tech</h3>
 
 - 🔭 I’m currently working at [Shape Machine](https://shapemachine.design.gatech.edu/)
