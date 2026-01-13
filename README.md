@@ -18,7 +18,7 @@
   - Math Focus: Data Science and Computational Math
 - 🏆 Member of **Tau Beta Pi Engineering Honor Society** & Dean's List
 - 💼 Former Software Development Intern at [**Shape Computation Lab**](https://shape.gatech.edu/)
-- 💻 Passionate about cybersecurity, ML/AI, full-stack development, and building scalable systems
+- 💻 Passionate about cybersecurity, embedded systems, ML/AI, full-stack development, and building scalable systems
 
 ## 📫 Let's Connect
 
