@@ -19,7 +19,9 @@
 - 🏆 Member of **Tau Beta Pi Engineering Honor Society** & Dean's List
 - 💼 Former Software Development Intern at [**Shape Computation Lab**](https://shape.gatech.edu/)
 - 💻 Passionate about cybersecurity, embedded systems, ML/AI, full-stack development, and building scalable systems
-- 📚 Current Coursework: Cloud Computing, Embedded System Design, Computer Security, Malware Reverse Engineering, Complex Analysis, Probability Theory, Combinatorics
+- 📚 Current Coursework:
+  - ECE: Cloud Computing, Embedded System Design, Computer Security, Malware Reverse Engineering
+  - MATH: Complex Analysis, Probability Theory, Combinatorics
 ## 📫 Let's Connect
 
 📍 **Atlanta, GA** | 🎓 **Expected Graduation: May 2027**
