@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔬 Undergraduate Researcher at [**Cyber-Physical Systems Security Lab**](https://sites.gatech.edu/capcpsec/) - Developing fuzzing frameworks for industrial control systems
+- 🔬 Undergraduate Researcher at [**Cyber-Physical Systems Security Lab**](https://sites.gatech.edu/capcpsec/) - Analyzing software supply chain security and binary code similarity detection 
 - 🎓 3rd-year student pursuing a **Double Major in Computer Engineering & Mathematics** (GPA: 3.70)
   - Computer Engineering Threads: Distributed Systems & Software Design, Cybersecurity
   - Math Focus: Data Science and Computational Math
